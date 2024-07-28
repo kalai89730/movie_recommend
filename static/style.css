@@ -1,0 +1,44 @@
+body{
+  background-image:url("back.jpg");
+  background-size:cover;
+  background-position:center;
+  color:white;
+}
+.flask{
+  text-align:center;
+}
+.poster{
+  width:200px;
+  margin:10px;
+}
+label{
+  font-size:30px;
+}
+
+.posters{
+  text-align:center;
+  margin-top:20px;
+}
+
+input{
+  margin-left:10px;
+  height:30px;
+}
+form{
+  margin-top:30px;
+  text-align:center;
+}
+ form .but{
+display:block;
+background-color:rgb(103, 174, 103);
+height:40px;
+color:white;
+font-weight:bold;
+border-radius:5px;
+}
+.sub{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-top:50px;
+}
