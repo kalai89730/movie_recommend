@@ -3,3 +3,4 @@ Gunicorn
 pandas
 numpy
 scikit-learn
+requests
